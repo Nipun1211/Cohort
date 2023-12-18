@@ -1,5 +1,5 @@
  ## JavaScript Assignments
-  Solved the assignments for week 1
+  Solved all the assignments for week 1
 You are provided empty JavaScript files (or having function signatures) in this directory. 
 You have to follow the instructions given in each file and write the code in the same file to complete the assignment.
 
