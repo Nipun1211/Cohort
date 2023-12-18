@@ -53,9 +53,9 @@ class Calculator {
       let result = eval(str);
       if (isNaN(result) || !isFinite(result)) {
         throw new Error("Invalid input: Unable to evaluate the expression");
-      }     //bad result
-
-      return this.result = result;    //everything was good
+      }     
+      
+      return this.result = result;   
     } catch (error) {
       throw new Error(error);
     }
